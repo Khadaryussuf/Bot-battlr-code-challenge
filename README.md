@@ -1,7 +1,7 @@
 # Bot Battlr
 
 ## Description
-This project is a web app named **Bot Battlr**,an application that fully uses React to create a feature that enables a user to select from a list of bots,and choose the bots that the user would like to fight for them based on the bots' stats. The app is created to satisfy a project for Moringa School.
+This project is a web app named **Bot Battlr**,an application that fully uses React to create a feature that enables a user to select from a list of bots,and choose the bots that the user would like to fight for them based on the bots' stats. 
 
 ## Technologies Used
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -11,7 +11,7 @@ Notable technologies used in this project include:
 
 The JSON server is made accessible by hosting it using vercel, a hosting platform. The db.json is first placed in a seperate repository, in this case that repository is:
 
-        https://github.com/Malcolm-G/bot-battlr-db-json
+        https://github.com/Khadaryussuf/bot-battlr-db-json
         
 That repository is then deployed using vercel,which allows the db.json to act as an api with api methods like POST,DELETE and PATCH working.
 The api link is:
@@ -39,16 +39,8 @@ To use this repo on your machine requires some simple steps
 - Clone the repo into your folder of choice by using the following:
 
 
-        git clone https://github.com/Malcolm-G/bot-battlr-phase-2.git
+        git clone https://github.com/Khadaryussuf/bot-battlr-code-challenge.git
 
-- Change directory to the repo folder:
-
-
-        cd wk1-code-challenge-bank-of-flatiron
-- (Optional) Open it in Visual Studio Code
-
-  
-        code .
 - (Alternate Option) Open it in any editor of your choice.
 
 - Install the relevant dependencies by running the command:
@@ -65,7 +57,7 @@ To use this repo on your machine requires some simple steps
 - Remember to use your username when cloning.
 
 
-        git clone https://github.com/your-username-here/bot-battlr-phase-2.git
+        git clone https://github.com/your-username-here/bot-battlr-code-challenge.git
 
 ### Running the application
 If you wish to run application from cloned repository:
@@ -75,13 +67,13 @@ If you wish to run application from cloned repository:
 If you wish to access the application without cloning it to your computer,simply follow this simple step:
 - Access the website by going to the following link:
    
-                https://bot-battlr-phase-2-git-main-malcolm-g.vercel.app/
+                https://bot-battlr-code-challenge-git-main-Khadaryussuf-g.vercel.app/
 
 
 ---
 ## Authors
 This project was contributed to by:
-- [Malcolm Githuka](https://github.com/Malcolm-G-Moringa)
+- [Mohamed Khadar](https://github.com/Khadaryussuf)
 ## License
 The project is under GNU GENERAL PUBLIC LICENSE Version 3
 
