@@ -2,8 +2,7 @@ import React,{ useEffect, useState } from "react";
 import '../stylesheets/BotCollection.css';
 import BotCard from "./BotCard";
 
-const API = "https://bot-battlr-db-json.vercel.app/api/bots"
-
+const API = "https://api.npoint.io/8085765abb1a086a19d8"
 function BotCollection({addMyBot,removeMyBot}){
 
     const [bots,setBots] = useState([]);

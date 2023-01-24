@@ -9,18 +9,14 @@ Notable technologies used in this project include:
 - [React](https://reactjs.org/)
 - [Json Server](https://www.npmjs.com/package/json-server)
 
-The JSON server is made accessible by hosting it using vercel, a hosting platform. The db.json is first placed in a seperate repository, in this case that repository is:
 
-        https://github.com/Khadaryussuf/bot-battlr-db-json
+
+The data used in this app is found in the link below:
+
+       
+         "https://api.npoint.io/8085765abb1a086a19d8"
+
         
-That repository is then deployed using vercel,which allows the db.json to act as an api with api methods like POST,DELETE and PATCH working.
-The api link is:
-
-        https://bot-battlr-db-json.vercel.app/
-
-and the data used in this app is found in the link below:
-
-        https://bot-battlr-db-json.vercel.app/api/bots
 
 ## Project Setup
 ### Installation of application
@@ -64,10 +60,7 @@ If you wish to run application from cloned repository:
 
 - In the terminal run the command: `npm start`
 
-If you wish to access the application without cloning it to your computer,simply follow this simple step:
-- Access the website by going to the following link:
-   
-                https://bot-battlr-code-challenge-git-main-Khadaryussuf-g.vercel.app/
+
 
 
 ---

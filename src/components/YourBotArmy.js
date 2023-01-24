@@ -3,7 +3,7 @@ import '../stylesheets/YourBotArmy.css';
 import BotCard from "./BotCard";
 import MyBotCard from "./MyBotCard";
 
-const API = "https://bot-battlr-db-json.vercel.app/api/bots"
+const API = "https://api.npoint.io/8085765abb1a086a19d8"
 
 function YourBotArmy({myBots,removeMyBot}){
 
