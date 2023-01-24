@@ -23,7 +23,7 @@ The data used in this app is found in the link below:
 In order for you to use the content on this repo ensure you have the following:
 
 - A computer that runs on either of the following: (Windows 7+, Linux, Mac OS)
-- NPM
+
 - 
 Installation of the application is not necessary but if one wishes to, the steps are described below.
 The installation steps are described for a linux machine.\

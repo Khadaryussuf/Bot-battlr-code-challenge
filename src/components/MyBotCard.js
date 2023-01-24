@@ -4,7 +4,7 @@ function MyBotCard({bot,removeMyBot}){
 
     
 
-    if (bot.length==0){
+    if (bot.length===0){
         return 
     }
 

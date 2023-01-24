@@ -1,9 +1,8 @@
-import React,{ useEffect, useState } from "react";
+import React from "react";
 import '../stylesheets/YourBotArmy.css';
-import BotCard from "./BotCard";
+
 import MyBotCard from "./MyBotCard";
 
-const API = "https://api.npoint.io/8085765abb1a086a19d8"
 
 function YourBotArmy({myBots,removeMyBot}){
 

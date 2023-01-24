@@ -6,8 +6,6 @@ const API = "https://api.npoint.io/8085765abb1a086a19d8"
 function BotCollection({addMyBot,removeMyBot}){
 
     const [bots,setBots] = useState([]);
-    const [fetchStatus,setFetchStatus] = useState("pending");
-
     useEffect(()=>{
         fetch(API)
         .then(resp=>resp.json())

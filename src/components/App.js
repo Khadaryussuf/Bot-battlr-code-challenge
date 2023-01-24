@@ -9,7 +9,7 @@ function App() {
   const [myBots,setMyBots] = useState([]);
 
   function addMyBot(bot){
-    if(myBots.filter((item)=>item.id==bot.id).length==0){
+    if(myBots.filter((item)=>item.id===bot.id).length===0){
       const newBots = [...myBots,bot];
       setMyBots(()=>newBots);
     }
