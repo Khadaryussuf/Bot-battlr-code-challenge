@@ -26,7 +26,7 @@ In order for you to use the content on this repo ensure you have the following:
 
 - 
 Installation of the application is not necessary but if one wishes to, the steps are described below.
-The installation steps are described for a linux machine.\
+The installation steps are described for a linux machine.
 To use this repo on your machine requires some simple steps
 
 #### Alternative One (Cloning directly from my repository)
@@ -37,7 +37,9 @@ To use this repo on your machine requires some simple steps
 
         git clone https://github.com/Khadaryussuf/bot-battlr-code-challenge.git
 
-- (Alternate Option) Open it in any editor of your choice.
+- Open it in vs code by running this command:
+
+       code .
 
 - Install the relevant dependencies by running the command:
 
